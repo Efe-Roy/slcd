@@ -1,0 +1,1 @@
+web: gunicorn slcd_core.wsgi --log-file -
